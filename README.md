@@ -59,6 +59,7 @@ VERILOG CODE:
 FLIP FLOP:
 
 SR FLIP FLOP:
+
 PROGRAM:
 ```
 module srff(s,r,clk,rst,q);
@@ -85,6 +86,7 @@ OUTPUT
 ![image](https://github.com/Mohanasankaran/VLSI-LAB-EXP-4/assets/161284142/49085f3f-14bd-4da2-8d2b-2b450eeb2fd2)
 
 JK FLIP FLOP:
+
 PROGRAM:
 ```
 module jkff(j,k,clk,rst,q);
@@ -112,6 +114,7 @@ OUTPUT:
 ![image](https://github.com/Mohanasankaran/VLSI-LAB-EXP-4/assets/161284142/ec615bb5-3888-46ee-82e8-d8cdb1a43ac0)
 
 T FLIP FLOP:
+
 PROGRAM:
 ```
 module tff(clk,rst,t,q);
@@ -134,6 +137,7 @@ OUTPUT:
 ![image](https://github.com/Mohanasankaran/VLSI-LAB-EXP-4/assets/161284142/37375d1d-74fa-44e1-b337-e39c8c92d3c2)
 
 D FLIP FLOP:
+
 PROGRAM:
 ```
 module dff(d,clk,rst,q);
@@ -156,6 +160,7 @@ OUTPUT:
 COUNTER:
 
 UPDOWN COUNTER:
+
 PROGRAM:
 
 ```
@@ -179,6 +184,7 @@ OUTPUT:
 ![image](https://github.com/Mohanasankaran/VLSI-LAB-EXP-4/assets/161284142/4f3dc1b5-07e0-4338-9411-58f23794545b)
 
 MOD10 COUNTER:
+
 PROGRAM:
 ```
 module mod10counter(clk,rst,out);
@@ -198,6 +204,7 @@ OUTPUT:
 ![image](https://github.com/Mohanasankaran/VLSI-LAB-EXP-4/assets/161284142/605e3578-0ac3-471f-92a1-83ed90021693)
 
 RIPPLE COUNTER:
+
 PROGRAM:
 ```
 module tff(q,clk,rst);
