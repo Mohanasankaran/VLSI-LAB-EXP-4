@@ -1,9 +1,10 @@
-SIMULATION AND IMPLEMENTATION OF SEQUENTIAL LOGIC CIRCUITS
+**SIMULATION AND IMPLEMENTATION OF SEQUENTIAL LOGIC CIRCUITS**
 
-AIM: 
+**AIM:**
+
  To simulate and synthesis SR, JK, T, D - FLIPFLOP, COUNTER DESIGN using Vivado 2023.2.
 
-APPARATUS REQUIRED:
+**APPARATUS REQUIRED:**
 
 Vivado 2023.2
 
@@ -34,7 +35,8 @@ COUNTER
 
 
   
-PROCEDURE:
+**PROCEDURE:**
+
 Open Vivado: Launch Xilinx Vivado software on your computer.
 
 Create a New Project: Click on "Create Project" from the welcome page or navigate through "File" > "Project" > "New".
@@ -53,9 +55,9 @@ Run Simulation: Start the simulation by clicking on the "Run" button in the simu
 
 View Results: After the simulation completes, you can view waveforms, debug signals, and analyze the behavior of your design.
 
-VERILOG CODE:
+**VERILOG CODE:**
 
-FLIP FLOP:
+**FLIP FLOP:**
 
 SR FLIP FLOP:
 
@@ -156,7 +158,7 @@ OUTPUT:
 
 ![image](https://github.com/Mohanasankaran/VLSI-LAB-EXP-4/assets/161284142/6eadd308-6d77-408f-a675-da134e41945b)
 
-COUNTER:
+**COUNTER:**
 
 UPDOWN COUNTER:
 
@@ -242,7 +244,8 @@ OUTPUT:
 
 
 
-RESULT:
+**RESULT:**
+
 Hence SR, JK, T, D - FLIPFLOP, COUNTER DESIGN using Vivado 2023.2 is simulated and synthesised.
 
 
